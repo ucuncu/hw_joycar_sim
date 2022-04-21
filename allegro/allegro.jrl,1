@@ -1,0 +1,45 @@
+\t (00:00:34) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:34)     Journal start - Wed Apr 13 10:53:06 2022
+\t (00:00:34)         Host=HAMIT-PC User=Hamit Pid=11668 CPUs=8
+\t (00:00:34) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:34) 
+\d (00:00:34) Design opened: D:/PROJELER/PCB_DONANIM/JOYCAR_ARDUINO_BASIC_V0/allegro/JOYCAR_ARDUINO_BASIC_V0_11.brd
+\i (00:00:35) generaledit 
+\i (00:00:35) roam y 96 
+\i (00:00:35) roam y 96
+\i (00:00:35) roam y 96 
+\i (00:00:35) roam y 96
+\i (00:00:40) zoom in 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 154.354 4853.835
+\i (00:00:40) trapsize 12370
+\i (00:00:40) zoom in 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 154.354 4853.836
+\i (00:00:40) trapsize 6185
+\i (00:00:41) roam y -96 
+\i (00:00:41) roam y -96
+\i (00:00:41) roam y -96 
+\i (00:00:41) roam y -96
+\i (00:00:41) roam y -96 
+\i (00:00:41) roam y -96
+\i (00:00:41) roam x 96 
+\i (00:00:41) roam x 96
+\i (00:00:41) roam x 96 
+\i (00:00:41) roam x 96
+\i (00:00:41) roam x 96 
+\i (00:00:41) roam x 96
+\i (00:00:42) roam x 96 
+\i (00:00:42) roam x 96
+\i (00:00:42) roam x 96 
+\i (00:00:42) roam x 96
+\i (00:00:49) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:00:52) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:01:01) setwindow form.mini
+\i (00:01:01) FORM mini class PACKAGE GEOMETRY 
+\i (00:01:03) FORM mini subclass SILKSCREEN_TOP 
+\i (00:01:04) FORM mini subcolor 1 
+\i (00:06:10) setwindow pcb
+\i (00:06:10) trapsize 9377
+\i (00:07:17) exit 
+\t (00:07:18)     Journal end - Wed Apr 13 10:59:50 2022

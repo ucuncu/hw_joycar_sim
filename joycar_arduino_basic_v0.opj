@@ -1,0 +1,117 @@
+(ExpressProject "joycar_arduino_basic_v0"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\joycar_arduino_basic_v0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "allegro\JOYCAR_ARDUINO_BASIC_V0_10.brd")
+    ("Allegro Netlist Output Board File"
+       "allegro\JOYCAR_ARDUINO_BASIC_V0_11.brd")
+    ("Allegro Netlist Remove Etch" "TRUE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("TEST POINT"
+      (FullPartName "TEST POINT.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON8
+      (FullPartName "CON8.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (ATMEGA32U4-AU
+      (FullPartName "ATMEGA32U4-AU.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\MY_PERSONAL_LIBRARY\ATMEGA32U4-AU\ATMEGA32U4-AU.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\joycar_arduino_basic_v0.dsn")
+      (Path "Design Resources" ".\joycar_arduino_basic_v0.dsn" "SCHEMATIC1")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 420"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1662 26 485")
+        (Scroll "-302 0")
+        (Zoom "65")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJELER\PCB_DONANIM\JOYCAR_ARDUINO_BASIC_V0\JOYCAR_ARDUINO_BASIC_V0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01__uC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1688 52 511")
+        (Scroll "-36 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJELER\PCB_DONANIM\JOYCAR_ARDUINO_BASIC_V0\JOYCAR_ARDUINO_BASIC_V0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02__Led"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1714 78 537")
+        (Scroll "-36 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJELER\PCB_DONANIM\JOYCAR_ARDUINO_BASIC_V0\JOYCAR_ARDUINO_BASIC_V0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "03__Rot"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1740 104 563")
+        (Scroll "-302 0")
+        (Zoom "65")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJELER\PCB_DONANIM\JOYCAR_ARDUINO_BASIC_V0\JOYCAR_ARDUINO_BASIC_V0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "04__But")))
+  (MPSSessionName "Hamit")
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\capture\library")
+  (ISPCBBASICLICENSE "false"))

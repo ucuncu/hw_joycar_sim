@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : JOYCAR_ARDUINO_BASIC_V0_11.brd                )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Mar 28 11:41:14 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 4
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (-15.438 4650.230)  Net: GND
+	Point on shape: (-876.083 5376.194)  Net: GND
+	Point on shape: (-263.775 4070.963)  Net: GND
+	Point on shape: (443.030 5080.764)  Net: GND

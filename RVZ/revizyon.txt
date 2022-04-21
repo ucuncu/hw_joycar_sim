@@ -1,0 +1,3 @@
+PCB içindeki inside cutout regions non-plated slot olarak ayarlanmalı. GKO layer da görünmüyor, üreticide sorun olabilir.
+LED VDD VSS arasına 10uF ekle
+

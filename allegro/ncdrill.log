@@ -1,0 +1,63 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : JOYCAR_ARDUINO_BASIC_V0_11.brd                )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Mon Mar 28 12:12:46 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-360): Design precision is greater than that of the drill output file data.
+ WARNING(SPMHMF-361): Data rounding errors are very possible.
+
+
+ Drill files being output to directory 'D:/PROJELER/PCB_DONANIM/JOYCAR_ARDUINO_BASIC_V0/allegro' ...
+
+
+
+     'JOYCAR_ARDUINO_BASIC_V0_11-1-2.drl' created for holes connecting TOP and BOTTOM
+     --------------------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   8.0000    0.0000/  0.0000      PLATED        155
+            2.  31.4960    0.0000/  0.0000      PLATED          8
+            3.  35.4330    0.0000/  0.0000      PLATED         40
+            4.  39.3700    0.0000/  0.0000      PLATED         11
+            5.  40.0000    0.0000/  0.0000      PLATED         14
+            6.  43.3070    0.0000/  0.0000      PLATED          5
+            7. 113.3860    0.0000/  0.0000      PLATED          2
+            8. 130.0000    0.0000/  0.0000      PLATED          6
+
+     ---- Total holes:                                        241
+
+     ---- Total head travel:              17.46 feet (5.32 meters)
+

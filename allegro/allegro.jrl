@@ -1,0 +1,19 @@
+\t (00:00:05) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Thu Apr 21 13:47:26 2022
+\t (00:00:05)         Host=HAMIT-PC User=Hamit Pid=14996 CPUs=8
+\t (00:00:05) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: D:/PROJELER/PCB_DONANIM/JOYCAR_ARDUINO_BASIC_V0/allegro/JOYCAR_ARDUINO_BASIC_V0_11.brd
+\i (00:00:07) trapsize 18359
+\i (00:00:07) trapsize 18778
+\i (00:00:07) trapsize 23954
+\i (00:00:07) trapsize 26077
+\i (00:00:07) generaledit 
+\i (00:00:11) open 
+\i (00:00:25) fillin "D:\PROJELER\PCB_DONANIM\METO_STM_CRY_V0\allegro\METO_STM_CRY_V0_33.brd"
+\i (00:00:25) cd "D:\PROJELER\PCB_DONANIM\METO_STM_CRY_V0\allegro"
+\t (00:00:25) Opening existing design...
+\i (00:00:26) trapsize 9168
+\t (00:00:26)     Journal end - Thu Apr 21 13:47:47 2022
